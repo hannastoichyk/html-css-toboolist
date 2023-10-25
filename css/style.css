@@ -1,4 +1,8 @@
-/*задать размеры для всего файла*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 .logo {
   background-color: aliceblue;
 }
@@ -7,4 +11,19 @@
 }
 #button-blu {
   background-color: rgb(120, 120, 240);
+}
+.rettangolo-azzuro {
+  display: inline-block;
+  width: 55px;
+  height: 25px;/*deve essere uguale a line-height*/
+  border-radius: 20%;
+  background-color: rgb(13, 92, 156);
+  font-size: smaller;
+  color: aliceblue;
+}
+.text-center {
+  text-align: center;
+}
+.line-height-25 {
+  line-height: 25px;
 }
