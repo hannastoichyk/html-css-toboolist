@@ -1,0 +1,10 @@
+/*задать размеры для всего файла*/
+.logo {
+  background-color: aliceblue;
+}
+.conteiner-generale {
+  background-color: rgb(11, 77, 135);
+}
+#button-blu {
+  background-color: rgb(120, 120, 240);
+}
