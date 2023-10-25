@@ -12,18 +12,37 @@
 #button-blu {
   background-color: rgb(120, 120, 240);
 }
-.rettangolo-azzuro {
+.rettangolo {
   display: inline-block;
   width: 55px;
-  height: 25px;/*deve essere uguale a line-height*/
+  height: 25px; /*deve essere uguale a line-height*/
   border-radius: 20%;
   background-color: rgb(13, 92, 156);
   font-size: smaller;
   color: aliceblue;
 }
+
 .text-center {
   text-align: center;
 }
 .line-height-25 {
   line-height: 25px;
+}
+.bg-color-azzuro {
+  background-color: aqua;
+}
+.bg-color-violo {
+  background-color: blueviolet;
+}
+.bg-color-verde-sc {
+  background-color: green;
+}
+.bg-color-arancione {
+  background-color: orange;
+}
+.bg-color-verde {
+  background-color: chartreuse;
+}
+.bg-color-rosa {
+  background-color: plum;
 }
